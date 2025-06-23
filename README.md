@@ -34,7 +34,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nithinkaarthik/" target="_blank">
+  <a href="https://www.linkedin.com/in/nithin-kaarthik-98nk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nithinkaarthikk@gmail.com">
